@@ -1,1 +1,11 @@
 package-lock.json
+/Learing.NetCore.Mvc2/bin
+/Learing.NetCore.Mvc2/obj
+/Learning.NetCore.Application/bin
+/Learning.NetCore.Application/obj
+/Learning.NetCore.Domain/obj
+/Learning.NetCore.Domain/bin
+/Learning.NetCore.EntityFrameworkCore/bin
+/Learning.NetCore.EntityFrameworkCore/obj
+/Learning.NetCore.Utility/bin
+/Learning.NetCore.Utility/obj

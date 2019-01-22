@@ -1,0 +1,24 @@
+{
+  "name": "Learing.NetCore.Mvc2",
+  "description": "",
+  "main": "",
+  "authors": [
+    "dongyanwei"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "wwwroot/lib"
+  ],
+  "resolutions": {
+    "jquery": ">=1.6"
+  },
+  "dependencies": {
+    "admin-lte": "v2.4.8"
+  }
+}

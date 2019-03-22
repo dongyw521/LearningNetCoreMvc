@@ -13,6 +13,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Utility", "Learning.NetCore.Utility\Learning.NetCore.Utility.csproj", "{F20B69AA-70E8-4502-BE4F-214A362D638F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{66605336-10E9-4847-A5D1-24CDC232E719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Application", "02.Application", "{7D58E984-643A-4415-87DE-F8882A239A92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Domain", "03.Domain", "{165473F0-1F8E-4CA5-B394-D780232AB6E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Infrastructure", "04.Infrastructure", "{0578EB9E-50CF-4171-9C47-FE2AC70AA182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +50,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C031260-D159-40BA-920A-7378ABA9225C} = {66605336-10E9-4847-A5D1-24CDC232E719}
+		{EAA7CCA5-25E8-4815-8433-A8A4B1D90F20} = {0578EB9E-50CF-4171-9C47-FE2AC70AA182}
+		{F1E4730C-1329-49BA-BFE9-953C5656BAB7} = {7D58E984-643A-4415-87DE-F8882A239A92}
+		{72F4F88F-43D6-4F82-85D4-2391EA33545D} = {165473F0-1F8E-4CA5-B394-D780232AB6E9}
+		{F20B69AA-70E8-4502-BE4F-214A362D638F} = {0578EB9E-50CF-4171-9C47-FE2AC70AA182}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {879905D0-262A-4A45-84BA-377DB12053F9}

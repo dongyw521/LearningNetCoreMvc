@@ -6,7 +6,7 @@
     "dongyanwei"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/dongyw521/LearningNetCoreMvc",
   "ignore": [
     "**/.*",
     "node_modules",

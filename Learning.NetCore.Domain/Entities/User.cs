@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Learning.NetCore.Domain.Entities
 {
-    public class User:Entity
+    public class User : Entity
     {
         /// <summary>
         /// 用户名

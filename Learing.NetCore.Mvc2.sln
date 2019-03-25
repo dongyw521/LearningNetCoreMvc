@@ -13,7 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Utility", "Learning.NetCore.Utility\Learning.NetCore.Utility.csproj", "{F20B69AA-70E8-4502-BE4F-214A362D638F}"
 EndProject
-<<<<<<< HEAD
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{66605336-10E9-4847-A5D1-24CDC232E719}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Application", "02.Application", "{7D58E984-643A-4415-87DE-F8882A239A92}"
@@ -21,15 +20,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Domain", "03.Domain", "{165473F0-1F8E-4CA5-B394-D780232AB6E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Infrastructure", "04.Infrastructure", "{0578EB9E-50CF-4171-9C47-FE2AC70AA182}"
-=======
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{E4C60C8D-2C03-4420-BA50-FF5E6CC9A44F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Application", "02.Application", "{4A0B47A0-2026-414D-8BC5-BAD02AF371D0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Domain", "03.Domain", "{2DFEC274-1DE3-4020-99B0-3C909C88002E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Infrastructure", "04.Infrastructure", "{CF3122B4-520A-4DDF-99B5-120DA687EBF4}"
->>>>>>> a3f477b661e16c99b4384899bbee893fb40eb9b0
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

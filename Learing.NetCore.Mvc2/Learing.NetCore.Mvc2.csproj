@@ -13,6 +13,6 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1"/>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="..\Learning.NetCore.Domain\Learning.NetCore.Domain.csproj"/>
+    <ProjectReference Include="..\Learning.NetCore.Domain\Learning.NetCore.Domain.csproj" />
   </ItemGroup>
 </Project>

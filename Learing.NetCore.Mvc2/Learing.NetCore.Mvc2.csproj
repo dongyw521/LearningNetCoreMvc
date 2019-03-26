@@ -3,16 +3,16 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="wwwroot\"/>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App"/>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1"/>
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1"/>
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1"/>
-    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="..\Learning.NetCore.Domain\Learning.NetCore.Domain.csproj"/>
+    <ProjectReference Include="..\Learning.NetCore.Domain\Learning.NetCore.Domain.csproj" />
   </ItemGroup>
 </Project>

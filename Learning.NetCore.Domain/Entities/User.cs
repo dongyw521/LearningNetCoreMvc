@@ -80,6 +80,6 @@ namespace Learning.NetCore.Domain.Entities
         /// 角色集合
         /// </summary>
 
-        public virtual ICollection<Role> Roles { get; set; }
+        public virtual ICollection<UserRole> Roles { get; set; }
     }
 }

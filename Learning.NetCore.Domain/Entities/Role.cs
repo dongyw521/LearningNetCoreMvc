@@ -17,8 +17,8 @@ namespace Learning.NetCore.Domain.Entities
 
         public virtual User CreateUser { get; set; }
 
-        public virtual ICollection<User> Users { get; set; }
+        //public virtual ICollection<User> Users { get; set; }
 
-        public virtual ICollection<Menu> Menus { get; set; }
+        public virtual ICollection<RoleMenu> Menus { get; set; }
     }
 }

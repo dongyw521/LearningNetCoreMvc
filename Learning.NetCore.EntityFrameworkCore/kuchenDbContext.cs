@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 
 namespace Learning.NetCore.EntityFrameworkCore
 {
-    public class Class1
+    public class kuchenDbContext:DbContext
     {
+
     }
 }

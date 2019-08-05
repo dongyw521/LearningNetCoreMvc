@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Configuration.Json;
-using Microsoft.Extensions.Configuration.FileExtensions;
-//using Learning.NetCore.Domain.Entities;
-
+using Learning.NetCore.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using Learning.NetCore.EntityFrameworkCore.Repositories;
+using Learning.NetCore.Domain.IRepositories;
+using Learning.NetCore.Application.ApplicationServices;
 
 namespace Learing.NetCore.Mvc2
 {
@@ -32,10 +28,12 @@ namespace Learing.NetCore.Mvc2
         public void ConfigureServices(IServiceCollection services)
         {
             var mysqlConnectString = Configuration.GetConnectionString("default");
-            //services.AddDbContext<kuchenDbContext>(options=>options.use)
-
+            services.AddDbContext<kuchenDbContext>(options => options.UseMySql(mysqlConnectString));
+            services.AddScoped<IUserRepository,UserRepository>();
+            services.AddScoped<IUserApplicationService,UserApplicationService>();
+            services.AddMemoryCache();//内存缓存
             services.AddMvc();
-            
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -59,6 +57,7 @@ namespace Learing.NetCore.Mvc2
                     template: "{controller=Login}/{action=Index}/{id?}"
                     );
             });
+            SeedData.Init(app.ApplicationServices);
 
             //app.Run(async (context) =>
             //{

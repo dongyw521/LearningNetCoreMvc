@@ -13,6 +13,8 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Learning.NetCore.EntityFrameworkCore\Learning.NetCore.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\Learning.NetCore.Domain\Learning.NetCore.Domain.csproj" />
+    <ProjectReference Include="..\Learning.NetCore.Application\Learning.NetCore.Application.csproj" />
   </ItemGroup>
 </Project>

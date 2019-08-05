@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Learning.NetCore.Domain.Entities
 {
+    //[Table("user")]
     public class User : Entity
     {
         /// <summary>
@@ -58,7 +60,7 @@ namespace Learning.NetCore.Domain.Entities
         /// <summary>
         /// 部门ID
         /// </summary>
-        public Guid DeptmentId { get; set; }
+        public int DepartmentId { get; set; }
 
         /// <summary>
         /// 是否已删除
@@ -68,13 +70,13 @@ namespace Learning.NetCore.Domain.Entities
         /// <summary>
         /// 所属部门实体
         /// </summary>
-        public virtual Department Department { get; set; }
+        //public virtual Department Department { get; set; }
 
         /// <summary>
         /// 创建人实体
         /// </summary>
 
-        public virtual User CreateUser { get; set; }
+        //public virtual User CreateUser { get; set; }
 
         /// <summary>
         /// 角色集合

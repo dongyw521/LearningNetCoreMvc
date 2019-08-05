@@ -1,6 +1,9 @@
-﻿namespace Learning.NetCore.Domain.Entities
+﻿using System;
+using System.Collections.Generic;
+
+namespace Learning.NetCore.Domain.Entities
 {
-    public class Menu
+    public class Menu : Entity
     {
         // <summary>
         /// 父级ID
@@ -41,6 +44,9 @@
         /// 菜单备注
         /// </summary>
         public string Remarks { get; set; }
+
+        
+        public virtual ICollection<RoleMenu> Roles { get; set; }
 
     }
 }

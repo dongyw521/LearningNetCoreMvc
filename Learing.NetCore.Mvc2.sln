@@ -5,13 +5,13 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learing.NetCore.Mvc2", "Learing.NetCore.Mvc2\Learing.NetCore.Mvc2.csproj", "{3C031260-D159-40BA-920A-7378ABA9225C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.EntityFrameworkCore", "Learning.NetCore.EntityFrameworkCore\Learning.NetCore.EntityFrameworkCore.csproj", "{EAA7CCA5-25E8-4815-8433-A8A4B1D90F20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.EntityFrameworkCore", "Learning.NetCore.EntityFrameworkCore\Learning.NetCore.EntityFrameworkCore.csproj", "{EAA7CCA5-25E8-4815-8433-A8A4B1D90F20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Application", "Learning.NetCore.Application\Learning.NetCore.Application.csproj", "{F1E4730C-1329-49BA-BFE9-953C5656BAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Application", "Learning.NetCore.Application\Learning.NetCore.Application.csproj", "{F1E4730C-1329-49BA-BFE9-953C5656BAB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Domain", "Learning.NetCore.Domain\Learning.NetCore.Domain.csproj", "{72F4F88F-43D6-4F82-85D4-2391EA33545D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Domain", "Learning.NetCore.Domain\Learning.NetCore.Domain.csproj", "{72F4F88F-43D6-4F82-85D4-2391EA33545D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.NetCore.Utility", "Learning.NetCore.Utility\Learning.NetCore.Utility.csproj", "{F20B69AA-70E8-4502-BE4F-214A362D638F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.NetCore.Utility", "Learning.NetCore.Utility\Learning.NetCore.Utility.csproj", "{F20B69AA-70E8-4502-BE4F-214A362D638F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{66605336-10E9-4847-A5D1-24CDC232E719}"
 EndProject
@@ -60,12 +60,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {879905D0-262A-4A45-84BA-377DB12053F9}
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{3C031260-D159-40BA-920A-7378ABA9225C} = {E4C60C8D-2C03-4420-BA50-FF5E6CC9A44F}
-		{EAA7CCA5-25E8-4815-8433-A8A4B1D90F20} = {CF3122B4-520A-4DDF-99B5-120DA687EBF4}
-		{F20B69AA-70E8-4502-BE4F-214A362D638F} = {CF3122B4-520A-4DDF-99B5-120DA687EBF4}
-		{F1E4730C-1329-49BA-BFE9-953C5656BAB7} = {4A0B47A0-2026-414D-8BC5-BAD02AF371D0}
-		{72F4F88F-43D6-4F82-85D4-2391EA33545D} = {2DFEC274-1DE3-4020-99B0-3C909C88002E}
 	EndGlobalSection
 EndGlobal

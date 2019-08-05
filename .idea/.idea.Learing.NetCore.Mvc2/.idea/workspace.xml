@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcb68e1d-cf89-43ae-b056-40fe120f72c5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learing.NetCore.Mvc2.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Learing.NetCore.Mvc2.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learing.NetCore.Mvc2/Learing.NetCore.Mvc2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Learing.NetCore.Mvc2/Learing.NetCore.Mvc2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learing.NetCore.Mvc2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learing.NetCore.Mvc2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Department.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Department.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/Learning.NetCore.EntityFrameworkCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/Learning.NetCore.EntityFrameworkCore.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/kuchenDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/kuchenDbContext.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +34,30 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1554372541942" expanded="true" signature="6:299" ph="..." />
+                <marker date="1554372541942" expanded="true" signature="331:2343" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="358:2341" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="470:854" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="864:1079" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1554372541942" expanded="true" signature="1146:1450" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="1638:2335" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="1685:1762" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="1779:1864" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="1933:2126" ph="{...}" />
+                <marker date="1554372541942" expanded="true" signature="2194:2325" ph="/* app.Run(async (context) =&gt; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +67,9 @@
     <setting file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Department.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/DesignTimeDbContextFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Role.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/SeedData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -56,6 +89,7 @@
         <option value="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Role.cs" />
         <option value="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/Menu.cs" />
         <option value="$PROJECT_DIR$/Learning.NetCore.Domain/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +102,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Learing.NetCore.Mvc2/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="723" />
@@ -88,28 +122,13 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="02.Application" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="01.Presentation" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="02.Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.Application" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="02.Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="02.Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.Application" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="01.Presentation" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Learing.NetCore.Mvc2" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -120,31 +139,7 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="04.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.EntityFrameworkCore (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="04.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.EntityFrameworkCore (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="04.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.EntityFrameworkCore (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Learing.NetCore.Mvc2 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="04.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Learning.NetCore.EntityFrameworkCore (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2.1" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Projects" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Learning.NetCore.EntityFrameworkCore" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -208,6 +203,7 @@
       <workItem from="1551693383542" duration="2394000" />
       <workItem from="1551927800292" duration="4505000" />
       <workItem from="1553248364447" duration="3316000" />
+      <workItem from="1554371951863" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="entity">
       <created>1553249431242</created>
@@ -227,7 +223,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16143000" />
+    <option name="totallyTimeSpent" value="16552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +235,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="723" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919224" weight="0.32965517" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -249,9 +245,9 @@
       <window_info anchor="bottom" id="REST Client" order="7" sideWeight="0.56300485" weight="0.32965517" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49757674" weight="0.32965517" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49676898" visible="true" weight="0.3290735" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49676898" visible="true" weight="0.28413793" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49757674" weight="0.32965517" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21567044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21890146" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -307,10 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <marker date="1552978935972" expanded="true" signature="81:145" ph="{...}" />
-            <marker date="1552978935972" expanded="true" signature="193:214" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -325,11 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <marker date="1552981182874" expanded="false" signature="6:47" ph="..." />
-            <marker date="1552981182874" expanded="true" signature="91:540" ph="{...}" />
-            <marker date="1552981182874" expanded="true" signature="122:538" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -337,18 +324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <marker date="1552981225130" expanded="true" signature="42:925" ph="{...}" />
-            <marker date="1552981225130" expanded="true" signature="66:923" ph="{...}" />
-            <marker date="1552981225130" expanded="true" signature="102:133" ph="/// 父级ID ... " />
-            <marker date="1552981225130" expanded="true" signature="185:236" ph="/// 序号 ... " />
-            <marker date="1552981225130" expanded="true" signature="292:345" ph="/// 菜单名称 ... " />
-            <marker date="1552981225130" expanded="true" signature="396:449" ph="/// 菜单编码 ... " />
-            <marker date="1552981225130" expanded="true" signature="500:553" ph="/// 菜单地址 ... " />
-            <marker date="1552981225130" expanded="true" signature="603:667" ph="/// 类型：0导航菜单；1操作按钮。 ... " />
-            <marker date="1552981225130" expanded="true" signature="715:768" ph="/// 菜单图标 ... " />
-            <marker date="1552981225130" expanded="true" signature="819:872" ph="/// 菜单备注 ... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -370,12 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:255" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="287:614" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="314:612" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="367:441" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -383,18 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -409,22 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1040">
           <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding>
-            <marker date="1552981097895" expanded="false" signature="6:47" ph="..." />
-            <marker date="1552981097895" expanded="true" signature="91:1353" ph="{...}" />
-            <marker date="1552981097895" expanded="true" signature="130:1351" ph="{...}" />
-            <marker date="1552981097895" expanded="true" signature="145:198" ph="/// 部门名称 ... " />
-            <marker date="1552981097895" expanded="true" signature="249:302" ph="/// 部门编号 ... " />
-            <marker date="1552981097895" expanded="true" signature="353:407" ph="/// 部门负责人 ... " />
-            <marker date="1552981097895" expanded="true" signature="461:514" ph="/// 联系电话 ... " />
-            <marker date="1552981097895" expanded="true" signature="574:625" ph="/// 备注 ... " />
-            <marker date="1552981097895" expanded="true" signature="679:734" ph="/// 父级部门ID ... " />
-            <marker date="1552981097895" expanded="true" signature="786:838" ph="/// 创建人 ... " />
-            <marker date="1552981097895" expanded="true" signature="894:947" ph="/// 创建时间 ... " />
-            <marker date="1552981097895" expanded="true" signature="1007:1061" ph="/// 是否已删除 ... " />
-            <marker date="1552981097895" expanded="true" signature="1114:1167" ph="/// 包含用户 ... " />
-            <marker date="1552981097895" expanded="true" signature="1238:1292" ph="/// 创建人信息 ... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,25 +376,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,20 +394,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <marker date="1552978935972" expanded="true" signature="81:145" ph="{...}" />
-            <marker date="1552978935972" expanded="true" signature="193:214" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Views/Login/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -496,25 +412,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,21 +426,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Entity.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <marker date="1552978935972" expanded="true" signature="81:145" ph="{...}" />
-            <marker date="1552978935972" expanded="true" signature="193:214" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,25 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,21 +455,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Entity.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <marker date="1552978935972" expanded="true" signature="81:145" ph="{...}" />
-            <marker date="1552978935972" expanded="true" signature="193:214" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,30 +477,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="820">
           <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Properties/launchSettings.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -644,13 +492,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/Entity.cs" />
-    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.Domain/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Views/Login/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -676,12 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:255" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="287:614" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="314:612" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="367:441" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,25 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <marker date="1548127644227" expanded="false" signature="6:249" ph="..." />
-            <marker date="1548127644227" expanded="true" signature="281:1497" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="308:1495" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="323:538" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1548127644227" expanded="true" signature="605:656" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="844:1489" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="891:968" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="985:1070" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1139:1332" ph="{...}" />
-            <marker date="1548127644227" expanded="true" signature="1348:1479" ph="/* app.Run(async (context) =&gt; ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,11 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding>
-            <marker date="1552981182874" expanded="false" signature="6:47" ph="..." />
-            <marker date="1552981182874" expanded="true" signature="91:540" ph="{...}" />
-            <marker date="1552981182874" expanded="true" signature="122:538" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,18 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <marker date="1552981225130" expanded="true" signature="42:925" ph="{...}" />
-            <marker date="1552981225130" expanded="true" signature="66:923" ph="{...}" />
-            <marker date="1552981225130" expanded="true" signature="102:133" ph="/// 父级ID ... " />
-            <marker date="1552981225130" expanded="true" signature="185:236" ph="/// 序号 ... " />
-            <marker date="1552981225130" expanded="true" signature="292:345" ph="/// 菜单名称 ... " />
-            <marker date="1552981225130" expanded="true" signature="396:449" ph="/// 菜单编码 ... " />
-            <marker date="1552981225130" expanded="true" signature="500:553" ph="/// 菜单地址 ... " />
-            <marker date="1552981225130" expanded="true" signature="603:667" ph="/// 类型：0导航菜单；1操作按钮。 ... " />
-            <marker date="1552981225130" expanded="true" signature="715:768" ph="/// 菜单图标 ... " />
-            <marker date="1552981225130" expanded="true" signature="819:872" ph="/// 菜单备注 ... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -767,22 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <marker date="1552981097895" expanded="false" signature="6:47" ph="..." />
-            <marker date="1552981097895" expanded="true" signature="91:1353" ph="{...}" />
-            <marker date="1552981097895" expanded="true" signature="130:1351" ph="{...}" />
-            <marker date="1552981097895" expanded="true" signature="145:198" ph="/// 部门名称 ... " />
-            <marker date="1552981097895" expanded="true" signature="249:302" ph="/// 部门编号 ... " />
-            <marker date="1552981097895" expanded="true" signature="353:407" ph="/// 部门负责人 ... " />
-            <marker date="1552981097895" expanded="true" signature="461:514" ph="/// 联系电话 ... " />
-            <marker date="1552981097895" expanded="true" signature="574:625" ph="/// 备注 ... " />
-            <marker date="1552981097895" expanded="true" signature="679:734" ph="/// 父级部门ID ... " />
-            <marker date="1552981097895" expanded="true" signature="786:838" ph="/// 创建人 ... " />
-            <marker date="1552981097895" expanded="true" signature="894:947" ph="/// 创建时间 ... " />
-            <marker date="1552981097895" expanded="true" signature="1007:1061" ph="/// 是否已删除 ... " />
-            <marker date="1552981097895" expanded="true" signature="1114:1167" ph="/// 包含用户 ... " />
-            <marker date="1552981097895" expanded="true" signature="1238:1292" ph="/// 创建人信息 ... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,15 +574,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/SeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
-            <marker date="1552978935972" expanded="true" signature="81:145" ph="{...}" />
-            <marker date="1552978935972" expanded="true" signature="193:214" ph="{...}" />
+            <marker date="1554288110061" expanded="false" signature="6:157" ph="..." />
+            <marker date="1554288110061" expanded="true" signature="205:2670" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="240:2668" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="312:2662" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="384:2652" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="648:712" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="825:1232" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="1295:1515" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="1583:1822" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="1849:2080" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="2107:2338" ph="{...}" />
+            <marker date="1554288110061" expanded="true" signature="2365:2596" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2.sln.DotSettings.user">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Learning.NetCore.EntityFrameworkCore/DesignTimeDbContextFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1553667124906" expanded="true" signature="6:80" ph="..." />
+            <marker date="1553667124906" expanded="true" signature="128:605" ph="{...}" />
+            <marker date="1553667124906" expanded="true" signature="222:603" ph="{...}" />
+            <marker date="1553667124906" expanded="true" signature="290:597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learing.NetCore.Mvc2/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
